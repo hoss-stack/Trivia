@@ -352,4 +352,4 @@ The error codes currently returned are:
 
 ## Authors
 - Hossam Reda created the APIs and tests
-- Udacity full stack web developer nanodegree team started the projec
+- Udacity full stack web developer nanodegree team started the project
